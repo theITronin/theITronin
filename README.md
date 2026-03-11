@@ -25,7 +25,6 @@
 ### 📊 GitHub Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=theITronin&show_icons=true&title_color=FFFFFF&icon_color=8E8E8E&text_color=B0B0B0&bg_color=0D1117&border_color=404040&border_radius=10&hide_border=false" height="170em"/>
-
 <img src="https://streak-stats.demolab.com?user=theITronin&theme=dark&hide_border=false&background=0D1117&currStreakLabel=FFFFFF&ring=8E8E8E&fire=FFFFFF&sideLabels=B0B0B0&stroke=404040&currStreakNum=FFFFFF" height="170em"/>
 
 ---
