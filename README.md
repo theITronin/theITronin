@@ -16,7 +16,9 @@
 ---
 
 ### 💡 About Me
-🧬 Passionate about **IT and cybersecurity, programming for fun** ⚙️ Into **IT, networks, programming and cybersecurity** 💾 Loves **terminal, dark themes, logic, security & ANIME (づ｡◕‿‿◕｡)づ**
+🧬 Passionate about **IT and cybersecurity, programming for fun** 
+⚙️ Into **IT, networks, programming and cybersecurity** 
+💾 Loves **terminal, dark themes, logic, security & ANIME (づ｡◕‿‿◕｡)づ**
 
 ---
 
@@ -54,6 +56,6 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c2c2c,100:424242&height=160&section=footer&text=Thanks%20for%20visiting%20and%20go%20diving%20into%2042%20pools%20;3%20🖤&fontSize=32&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c2c2c,100:424242&height=160&section=footer&text=Thank%20you%20for%20viewing%20this%20humble%20profile.%20🖤&fontSize=32&fontColor=ffffff&animation=twinkling" />
 
 </div>
