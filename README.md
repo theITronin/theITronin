@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:BF6CFF&height=160&text=Hi,%20I'm%20Shadow-Klr&fontSize=55&fontColor=F9F4FF&fontAlignY=45&animation=twinkling&desc=Programmer%20%|%20Problem%20Solver&descSize=28&descAlignY=85&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:BF6CFF&height=160&text=Hi,%20I%27m%20%20theITronin&fontSize=55&fontColor=F9F4FF&fontAlignY=45&animation=twinkling&desc=Programmer%20%|%20Problem%20Solver&descSize=28&descAlignY=85&section=header" />
 
 ### ⚡cybersecurity enthusiast
 
