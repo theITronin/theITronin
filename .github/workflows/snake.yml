@@ -9,16 +9,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v2
+      - name: Generate snake.svg
+        uses: Platane/snk@v3
         with:
           github_user_name: theITronin
-          outputs: dist/snake.svg
-          snake_color: "#8E8E8E"
-          apple_color: "#FFFFFF"
-          stroke_color: "#404040"
-          background_color: "#0D1117"
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
-      - name: Push snake
+      - name: Push snake.svg
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
