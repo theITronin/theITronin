@@ -16,9 +16,7 @@
 ---
 
 ### 💡 About Me
-🧬 Passionate about **IT and cybersecurity, programming for fun** 
-⚙️ Into **IT, networks, programming and cybersecurity** 
-💾 Loves **terminal, dark themes, logic, security & ANIME (づ｡◕‿‿◕｡)づ**
+🧬 Passionate about **low-level programming & algorithms**  ⚙️ Into **systems, problem solving, reverse engineering**  🏫 Preparing for **42** 💾 Loves **terminal, dark themes, logic & minimal code**
 
 ---
 
