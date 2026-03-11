@@ -41,7 +41,7 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/theITronin/theITronin/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/theITronin/theITronin/output/snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
