@@ -33,8 +33,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theITronin&layout=compact&langs_count=8&title_color=FFFFFF&text_color=B0B0B0&bg_color=0D1117&border_color=404040&hide_border=false&custom_title=Most%20Used%20Languages" height="170em" />
-
-  <img src="https://github-contributor-stats.vercel.app/api?username=theITronin&limit=5&combine_all_yearly_contributions=true&title_color=FFFFFF&text_color=B0B0B0&bg_color=0D1117&border_color=404040&hide_border=false&custom_title=Top%20Contributed%20Repos" height="170em" />
 </p>
 
 ---
