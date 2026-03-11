@@ -2,27 +2,24 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Se ejecuta cada 24 horas
-  workflow_dispatch: # Permite ejecutarlo manualmente
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake.svg
-        uses: Platane/snk@v3
-        with:
-          github_user_name: theITronin
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-        env:
-          # Estos colores son para la versión personalizada (Gris/Blanco)
-          # Formato: [fondo, color1, color2, color3, color4]
-          # El último color es la cabeza/serpiente
-          snake_color: "#FFFFFF"
-          
-      - name: Push snake.svg to the output branch
+      - uses: Platane/snk@v2
+  with:
+    github_user_name: theITronin
+    outputs: dist/snake.svg
+    snake_color: "#8E8E8E"    
+    apple_color: "#FFFFFF"     
+    stroke_color: "#404040"    
+    background_color: "#0D1117"
+
+
+      - name: Push snake
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
