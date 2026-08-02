@@ -28,10 +28,10 @@
 
 ---
 
-### 🧩 Most Used Languages & Top Repos
+### 🧩 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theITronin&layout=compact&langs_count=8&title_color=FFFFFF&text_color=B0B0B0&bg_color=0D1117&border_color=404040&hide_border=false&custom_title=Most%20Used%20Languages" height="170em" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theITronin&theme=dark&card_width=400" alt="Most Used Languages" />
 </p>
 
 ---
